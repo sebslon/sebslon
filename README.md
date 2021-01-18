@@ -1,15 +1,15 @@
 ## Hello, I'm Sebastian! :wave:
-  
-<h2>Something about me... </h2>
 
 - I'm a mechanical engineer :straight_ruler:,
 - Positive attitude person with growth mindset :blush:,
 - In my free time I'm reading books (currently "Thinking fast and slow" - D. Kahneman) and learning programming 🌱,
 - My goal is to develop my software development knowledge :books:
-	<br />
+	<br>
+	<br>
 	If you would like to know more, you can check out my => [CV](https://sebslon.github.io/myCV/)
+	<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sebslon&show_icons=true&theme=vue"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sebslon&show_icons=true&theme=tokyonight"/>
 
 ## I am programming because...
 
