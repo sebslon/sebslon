@@ -2,7 +2,7 @@
 
 - I'm a mechanical engineer :straight_ruler:,
 - Positive attitude person with growth mindset :blush:,
-- In my free time I'm reading books (currently Elon Musk - Biography) and learning programming 🌱,
+- In my free time I'm reading books (currently R. Cialdini - psychology && Robert C. Martin - Clean Code) and learning programming 🌱,
 - My goal is to develop my software development knowledge :books:
 	<br>
 	<br>
