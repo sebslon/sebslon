@@ -2,7 +2,7 @@
 
 - I'm a mechanical engineer :straight_ruler:,
 - Positive attitude person with growth mindset :blush:,
-- In my free time I'm reading books (currently R. Cialdini - psychology && Robert C. Martin - Clean Code) and learning programming 🌱,
+- In my free time I'm reading books (currently Cal Newport - Deep Work && Robert C. Martin - Clean Code) and learning programming 🌱,
 - My goal is to develop my software development knowledge :books:
 	<br>
 	<br>
@@ -11,11 +11,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=sebslon&show_icons=true&theme=tokyonight"/>
 
-## I am programming because...
+## I am learning programming because...
 
 For some years before i thought about learning programming so I started with Java. I'm self-learner and when I started then, I couldn't combine learning programming with my studies so i had to quit.
 
 After studies i started to work and then I realized it's not really what I like to do, i realized that i need an environment where I can really develop myself and it's up to me what I can do about that. Including teamwork and great society, sharing knowledge, i've found programming a place where i'm feeling good.
+
+I'm looking forward to learn more and more about software development, architecture, patterns and stuff around.
        
 ## Additional activities
     
