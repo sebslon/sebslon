@@ -2,7 +2,7 @@
 
 - I'm a mechanical engineer :straight_ruler:,
 - Positive attitude person with growth mindset :blush:,
-- In my free time I'm reading books (currently Ray Dalio - "Principles") and learning programming 🌱,
+- In my free time I'm reading books (currently Schopenhauer - "The Art of Always Being Right" and Hal Elrod - "The miracle morning") and learning programming 🌱,
 - My goal is to develop my software development knowledge :books:
 	<br>
 	<br>
