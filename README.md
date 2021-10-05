@@ -1,10 +1,10 @@
 ## Hello, I'm Sebastian! :wave:
 
-- I'm a mechanical engineer :straight_ruler:,
+- I'm educated as a mechanical engineer :straight_ruler:,
 - Positive attitude person with growth mindset :blush:,
-- In my free time I'm reading books and learning programming 🌱,
-- My goal is to constantly develop my software development knowledge :books:
-	<br>
+- In my free time I'm reading <a href="https://lubimyczytac.pl/profil/2078500/SebastianSlon">books</a> and learning programming 🌱,
+- I'm constantly developing my software development knowledge :books:
+
 	<br>
 	If you would like to know more, you can check out my => [CV](https://sebslon.github.io/myCV/)
 	<br>
